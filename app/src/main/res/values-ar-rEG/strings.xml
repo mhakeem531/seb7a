@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سٍبحة</string>
+    <string name="title_activity_tasbehat_navigation">الاذكار</string>
+    <string name="choose_your_praise">"اختر تسبيحتك"</string>
+
+
+    <!-- praises menu items -->
+    <string name="sobhan_allah">سبحان الله</string>
+    <string name="elhamed_lallah">الحمد لله</string>
+    <string name="tawheed">لا إاله إلا الله</string>
+    <string name="takbeer">الله أكبر</string>
+    <string name="hawkala">لا حول ولا قوة إلا بالله</string>
+    <string name="tasbeeh">سبحان الله وبحمده سبحان الله العظيم</string>
+    <string name="estakfar">أستغفر الله العظيم</string>
+    <string name="salah">اللهم صلي علي سيدنا محمد</string>
+    <string name="salah2">اللهم صلي وسلم وبارك علي سيدنا محمد</string>
+    <string name="allah_great_names">أسماء الله الحسني</string>
+    <string name="home">الرئيسيه</string>
+
+    <string name="reset">تهيئه العداد</string>
+
+</resources>

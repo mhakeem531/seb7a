@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <!--   <string name="sobhan_allah">سبحان الله</string>
+    <string name="elhamed_lallah">الحمد لله</string>
+    <string name="tawheed">لا إاله إلا الله</string>
+    <string name="takbeer">الله أكبر</string>
+    <string name="hawkala">لا حول ولا قوة إلا بالله</string>
+    <string name="tasbeeh">سبحان الله.سبحان الله العظيم</string>
+    <string name="estakfar">أستغفر الله العظيم</string>
+    <string name="salah">اللهم صلي وسلم وبارك علي سيدنا محمد</string>-->
+
+
+    <group android:checkableBehavior="single">
+
+        <!--android:icon="@drawable/ic_home"-->
+        <item
+            android:id="@+id/nav_home_menu_item"
+            android:title="@string/home"
+            android:icon="@drawable/ic_home"/>
+
+
+        <item
+            android:id="@+id/nav_sobhan_allah_menu_item"
+            android:title="@string/sobhan_allah" />
+        <item
+            android:id="@+id/nav_elhamed_lallah_menu_item"
+            android:title="@string/elhamed_lallah" />
+
+        <item
+            android:id="@+id/nav_tawheed_menu_item"
+            android:title="@string/tawheed" />
+        <item
+
+            android:id="@+id/nav_takbeer_menu_item"
+            android:title="@string/takbeer" />
+
+        <item
+            android:id="@+id/nav_hawkala_menu_item"
+            android:title="@string/hawkala" />
+
+        <item
+            android:id="@+id/nav_tasbeeh_menu_item"
+            android:title="@string/tasbeeh" />
+
+        <item
+            android:id="@+id/nav_estakfar_menu_item"
+            android:title="@string/estakfar" />
+
+        <item
+            android:id="@+id/nav_salah_menu_item"
+            android:title="@string/salah" />
+
+        <item
+            android:id="@+id/nav_allah_great_names_menu_item"
+            android:title="@string/allah_great_names" />
+
+    </group>
+
+
+
+</menu>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Sebha</string>
+    <string name="title_activity_tasbehat_navigation">Praises</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="choose_your_praise">اختر تسبيحتك</string>
+
+    <!-- praises menu items -->
+    <string name="sobhan_allah">سبحان الله</string>
+    <string name="elhamed_lallah">الحمد لله</string>
+    <string name="tawheed">لا إاله إلا الله</string>
+    <string name="takbeer">الله أكبر</string>
+    <string name="hawkala">لا حول ولا قوة إلا بالله</string>
+    <string name="tasbeeh">سبحان الله وبحمده سبحان الله العظيم</string>
+    <string name="estakfar">أستغفر الله العظيم</string>
+    <string name="salah">اللهم صلي علي سيدنا محمد</string>
+    <string name="salah2">اللهم صلي وسلم وبارك علي سيدنا محمد</string>
+    <string name="allah_great_names">أسماء الله الحسني</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">الرئيسيه</string>
+
+    <!--<string name="reset">rest-counter</string>-->
+    <string name="reset">تهيئه العداد</string>
+
+
+</resources>

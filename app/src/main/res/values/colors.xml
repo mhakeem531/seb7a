@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- navigation bar -->
+    <color name="colorPrimary">#3b170a</color>
+
+    <color name="colorPrimaryNavigationView">#3b170a</color>
+
+    <!-- task bar  9c5b06-->
+    <color name="colorPrimaryDark">#8d743800</color>
+
+    <!--8d743800-->
+    <color name="colorPrimaryDarkNavigationView">#dc711806</color>
+
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="whiteColor">#ffff</color>
+
+    <color name="actionBarColor">#c6781e03</color>
+
+    <color name="ovalBackground">#b03b1502</color>
+    <color name="item_background_color">#9d0306d1</color>
+    <color name="text_color">#fd5a03</color>
+
+
+
+    <!--fa035e
+    942c03
+    2bff01
+
+    c3ef4986-->
+    <color name="button_background_dark">#d8862803</color>
+    <color name="button_background_light">#c3ef4986</color>
+
+
+</resources>
